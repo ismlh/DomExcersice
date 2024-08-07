@@ -30,7 +30,7 @@ body{
 .light-box{
     width: 50%;
     height: 400px;
-    background-image: url(download\ \(1\).jpg);
+    background-image: url(../Images/d1.jpg);
     background-size: cover;
     background-position: center center;
     position: relative;
